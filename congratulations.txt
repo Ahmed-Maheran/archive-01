@@ -1,0 +1,6 @@
+Decode this and you win but you will have to find how to structure the flag. 
+a flag is like:
+THM{Something_Something_Something}
+you can find it from the README.MD.
+Here is the part you need to decode: 
+INXW4Z3SMF2HK3DBORUW63TTL5MW65K7K5XW4===
